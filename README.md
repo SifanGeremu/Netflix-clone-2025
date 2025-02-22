@@ -16,13 +16,7 @@ A fully responsive **Netflix UI Clone** built with **React.js** and integrated w
 
 ---
 
-## 📸 Preview
-> Screenshots of the application (add actual screenshots to the `screenshots` folder)
 
-![Homepage](screenshots/homepage.png)  
-![Movie Rows](screenshots/movie_rows.png)  
-
----
 
 ## 🛠️ Tech Stack
 
