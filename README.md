@@ -1,8 +1,44 @@
-# React + Vite
+# 🎬 Netflix Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fully responsive **Netflix UI Clone** built with **React.js** and integrated with the **TMDB API** to fetch and display trending movies, TV shows, and more.
 
-Currently, two official plugins are available:
+![Netflix Clone Preview](screenshots/homepage.png)  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+
+## 🚀 Features
+
+✅ Browse Netflix Originals  
+✅ Trending Movies & TV Shows  
+✅ Fetch data from **TMDB API**  
+✅ Responsive UI  
+✅ Search functionality (if implemented)  
+
+---
+
+## 📸 Preview
+> Screenshots of the application (add actual screenshots to the `screenshots` folder)
+
+![Homepage](screenshots/homepage.png)  
+![Movie Rows](screenshots/movie_rows.png)  
+
+---
+
+## 🛠️ Tech Stack
+
+- **React.js** – Frontend framework  
+- **Axios** – For fetching API data  
+- **TMDB API** – Movie Database  
+- **Material UI** – Icons and UI components  
+- **CSS** – Styling  
+
+---
+
+## ⚡ Getting Started
+
+### **1️⃣ Clone the Repository**
+```bash
+1.git clone https://github.com/yourusername/netflix-clone.git
+2.cd netflix-clone
+3.npm install
+4.npm start
