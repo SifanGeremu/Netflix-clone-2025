@@ -2,7 +2,7 @@
 
 A fully responsive **Netflix UI Clone** built with **React.js** and integrated with the **TMDB API** to fetch and display trending movies, TV shows, and more.
 
-![Netflix Clone Preview](screenshots/homepage.png)  
+ 
 
 ---
 
