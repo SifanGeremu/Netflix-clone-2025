@@ -1,0 +1,58 @@
+.header_outer_container {
+  position: sticky;
+  top: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  background: transparent;
+  transition: all 0.5s ease-in;
+  height: 10vh;
+  color: white;
+  z-index: 1;
+  cursor: pointer;
+}
+
+li {
+  text-decoration: none;
+  margin: 10px;
+}
+
+.header_container {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px;
+  align-items: center;
+  list-style: none;
+  background: transparent;
+}
+
+.header-left ul {
+  display: flex;
+  margin-left: 1px;
+  justify-content: space-between;
+  align-items: center;
+  list-style: none;
+}
+
+.header_right ul {
+  display: flex;
+  list-style: none;
+  justify-content: end;
+}
+
+.header_right {
+  color: white;
+  margin-left: 450px;
+}
+
+.Netlogo img {
+  width: 100px; /* Adjust width as needed */
+  height: auto; /* Keep aspect ratio */
+  object-fit: contain; /* Ensure the image is properly fitted */
+}
+
+
+.header-left li {
+  margin-right: 20px;
+}

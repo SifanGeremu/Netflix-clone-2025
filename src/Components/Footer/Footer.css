@@ -1,0 +1,72 @@
+.footer-outer-container {
+  background-color: black;
+  color: gray;
+  display: flex;
+  justify-content: center;
+ 
+}
+.footer-inner-container {
+  width: 12%;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 10px;
+  color: whiter;
+  background-color: black;
+   
+}
+.footer-icons-container {
+  width: 12%;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 10px;
+  color: white;
+  background-color: black;
+  
+}
+.Footer-Data {
+  justify-content: space-between;
+  color: white;
+  background-color: black;
+}
+.Footer-Data ul {
+  justify-content: center;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between; */
+  /* gap: 10px; Adds space between the list items
+  padding: 10px; /* Adds space inside the ul for a cleaner look */
+  /* margin: 0; Removes default margin for better control */
+  
+ 
+}
+
+.description {
+  display: flex;
+  /* align-items: center; */
+  /* justify-content: center; */
+  margin-right: 25%;
+  background-color: black;
+}
+.help {
+  display: flex;
+  /* align-items: center; */
+  /* justify-content: center; */
+  margin: auto;
+  background-color: black;
+}
+
+.gift {
+  display: flex;
+  /* align-items: center; */
+  justify-content: center;
+  margin: auto;
+  background-color: black;
+}
+.media {
+  display: flex;
+  /* align-items: center; */
+  justify-content: center;
+  margin: auto;
+  background-color: black;
+}
